@@ -1,0 +1,60 @@
+html, body {
+    font-size: 16px;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    background-color: #EFF2FB;    
+}
+
+article {
+  display: block;
+  position: relative;
+  margin: 0 auto;
+  width: 810px;
+  padding: 5px;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  background-color: white;
+}
+
+h1 {
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 10px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 10px;
+    text-align: center;
+}
+
+form {
+  margin: 25px 0 15px 0;
+  text-align: center;
+}
+
+table { 
+  width: 800px;
+  border-spacing: 0;
+  border-collapse: collapse;
+}
+
+table td, table th {
+  border: 1.5px solid #ccc;
+  padding: 5px;
+}
+
+table th {
+  background: #eee;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  text-decoration: none;
+  color: blue;
+}
